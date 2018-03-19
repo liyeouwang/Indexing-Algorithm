@@ -1,0 +1,8 @@
+1. 輸入檔請用command line的參數傳入，不可固定於程式中，固定於程式中會扣分
+	"./arch_final cache.org reference.lst"
+2. 請勿抄襲
+
+[verify]
+請將 verify.exe, cache.org, reference.lst 以及您的output file: index.rpt 放在同一個資料夾下
+執行 "verify.exe cache.org reference.lst index.rpt"
+verify 執行完之後會印出結果至螢幕

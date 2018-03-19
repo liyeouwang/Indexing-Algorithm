@@ -1,0 +1,4 @@
+Addressing_Bus : 6
+Entries : 4
+Associativity : 2
+

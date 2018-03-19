@@ -1,0 +1,18 @@
+Student ID: 991234
+Addressing Bus: 32
+Entries: 32
+Associativity: 1
+Indexing bits count: 5
+Indexing bits: 0 1 2 3 4 
+Total cache miss: 4
+
+.benchmark rand1
+000000 miss
+000100 miss
+001000	miss
+000000	hit
+001011	miss
+000000	hit
+001011 hit
+.end
+
